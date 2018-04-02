@@ -137,6 +137,8 @@ SDL_GL_SwapBuffers();
 						case SDLK_ESCAPE:
 							done = true;
 							break;
+						default:
+							break;
 					}
 			}
 
