@@ -10,10 +10,10 @@ Taken from public source : http://exhouse.untergrund.net/warez/demos/portse/trac
 .less than 65536 bytes about God and the Universe
 
 ### .Credits
-   Martti "Preacher" Nurmikari - **Programming**
-   Jukka "Grip" Älli           - **Soundtrack**
-   Brett "Firelight" Paterson  - **XM Player**
-   Fabian "ryg" Giesen         - **Packer**
+   Martti "Preacher" Nurmikari - **Programming**  
+   Jukka "Grip" Älli           - **Soundtrack**  
+   Brett "Firelight" Paterson  - **XM Player**  
+   Fabian "ryg" Giesen         - **Packer**  
    
 ### .Information and random babble
 
